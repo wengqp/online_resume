@@ -39,7 +39,5 @@
 
 - 前端：HTML / CSS / JavaSript / jQuery / Ajax / Vue
 - 后台：Node / python / mysql
-- 开发工具：Sublime Text / Visual Studio Code
-
-
-
+- 开发工具：Sublime Text / Visual Studio Code / MarkdownPad
+- 版本管理：git / github
